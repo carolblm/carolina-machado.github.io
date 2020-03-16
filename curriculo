@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html lang = "pt - br">
+<head> 
+<title> CURRICULO </title> 
+</head>
+<body> 
+<h1> Carolina Barbosa de Lima Machado </h1>
+
+<img src=“Carol.jpeg" alt="Carol Machado" />
+<p> <h2> Dados pessoais </h2> </p>
+<ul>
+<li> <strong> email: </strong> carolblmachado@gmail.com </li>
+<li> <strong> idade: </strong> 18 anos </li>
+<li> <strong> Cel.: </strong>  (12) 982798238 </li> 
+</ul>
+
+<h3> <strong> Objetivo: </h3> </strong> 
+<p> Ingressar no mercado de trabalho, de modo a ampliar
+conhecimentos e adquirir novas competâncias, contribuindo,
+assim, para o crescimento da empresa. </p>
+
+<h3> <strong> Escolaridade </h3> </strong> 
+<p> Ensino Médio Completo 2016-2018 </P> 
+Colégio Embraer Juarez Wanderley
+Ensino superior em processo 2019-2022
+<p> Universidade Presbiteriana Mackenzie </p>
+Curso: Design
+
+<h3> <strong> Cursos e experiências extracurriculares </h3> </strong> 
+<em> Programa Pré-Humanas Colégio Embraer Juarez Wanderley </em>
+<p> Duração: 480h </p>
+<p> Módulos: Empreendedorismo, Ética, Gestão Empresarial, Empresa Simulada,Artes, Funcionamento do Estado, Oficina de Criação Literária, Comunicação,Gestão de pessoas, Desenvolvimento do ProjetoAbrangente. </P> 
+</br>
+<p> <em> Inglês </em> 
+Nível Intermediário
+Cultura Inglesa </p> 
+<p> <em> Simulação da ONU </em> </p> 
+<p> Eventos de 2016 e 2018 </p> 
+<p> Duração: 3 dias </p> 
+<p> <em> Curso Caligrafia Digital <em> </p> 
+<p> Duracão: 1 mês </p> 
+<p> Sesc Paulista </p> 
+
+</body>
+</html> 
